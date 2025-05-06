@@ -1,5 +1,11 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+
+**Name : Tharun Sridhar**
+
+**Reg No : 212223230230**
+
+### DATE: 02/05/2025
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +51,7 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/fdc12067-3d8d-48c4-a47a-948f1696a116)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
